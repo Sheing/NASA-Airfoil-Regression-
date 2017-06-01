@@ -2247,10 +2247,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>DataExport</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>DelegatedTwoFactor</name>
     </userPermissions>
     <userPermissions>
