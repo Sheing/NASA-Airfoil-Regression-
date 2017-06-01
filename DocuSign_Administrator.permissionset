@@ -2121,10 +2121,6 @@ Note: Enables PermissionsManageUsers.</description>
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>ApproveContract</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>AssignPermissionSets</name>
     </userPermissions>
     <userPermissions>
