@@ -14,7 +14,7 @@
     </classAccesses>
     <classAccesses>
         <apexClass>AdminController</apexClass>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>AdminControllerTest</apexClass>
@@ -2118,10 +2118,6 @@ Note: Enables PermissionsManageUsers.</description>
     <userPermissions>
         <enabled>false</enabled>
         <name>ApiEnabled</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
-        <name>ApiUserOnly</name>
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
